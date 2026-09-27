@@ -1,1 +1,0 @@
-# Snake-Game-from-Wish
